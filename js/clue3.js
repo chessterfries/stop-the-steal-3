@@ -1,0 +1,3 @@
+class Clue3{
+    
+}
